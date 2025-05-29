@@ -37,62 +37,30 @@ Conteo de Valores Categóricos: Se analizaron las distribuciones de frecuencia d
 Visualización de la Distribución de Churn: Un gráfico de barras mostró la proporción de clientes que evadieron (churn: 1) y los que permanecieron (churn: 0), revelando un desequilibrio de clases.
 
 
-
-
-analitza.com
 Churn por Variables Categóricas: Se generaron gráficos de barras (countplot) para visualizar la tasa de churn en relación con variables como gender, contract, payment_method, internet_service, y senior_citizen.
 
 
 
 
-www.researchgate.net
 
 
-mascolombia.com
-
-
-www.ciat.org
-
-
-www.incibe.es
-
-
-www.eljaya.com
 Churn por Variables Numéricas: Se utilizaron gráficos de densidad (histplot con KDE) para observar cómo se distribuyen las variables numéricas (tenure, monthly_charges, total_charges, cuentas_diarias) para los clientes que evadieron y los que no.
 
 
 
 
-www.researchgate.net
 
-
-www.researchgate.net
-
-
-startupeable.com
-
-
-fastercapital.com
 Análisis de Correlación:
 
 Una matriz de correlación (heatmap) mostró las relaciones lineales entre todas las variables numéricas, incluyendo churn.
 
 
-
-
-nextscenario.com
 Un boxplot exploró la relación entre cuentas_diarias y churn, mostrando si los clientes con mayor evasión tienen un patrón de gasto diario diferente.
 
 
-
-
-investiga.banrep.gov.co
 Un gráfico de barras analizó cómo el num_services (cantidad total de servicios contratados) influye en la probabilidad de churn.
 
 
-
-
-www.redalyc.org
 🔹 Conclusiones e Insights
 A partir del análisis exploratorio de datos, se extraen los siguientes hallazgos clave:
 
